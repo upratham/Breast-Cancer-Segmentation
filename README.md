@@ -119,7 +119,6 @@ An example visualization (input image + segmentation mask/prediction):
 
 ![Result sample](result%20sample.png)
 
---------- Image --------- Original Mask --------- Predicted Mask
 
 ---
 
