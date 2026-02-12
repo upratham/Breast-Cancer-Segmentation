@@ -5,7 +5,7 @@ description = "Breast-Cancer-Segmentataion"
 authors = [{name = "Prathamesh Uravane", email = "upratham2002@gmail.com"}]
 requires-python = "==3.11.*"
 dependencies = [
-    "albumentations>=1.0",
+    "albumentations>=1.0.0",
     "h5py>=3.1",
     "ipykernel>=7.2.0",
     "matplotlib>=3.5",
@@ -15,7 +15,7 @@ dependencies = [
     "pydicom>=2.2",
     "scikit-image>=0.19",
     "scikit-learn>=1.0",
-    "tensorflow==2.15.1",
+    "tensorflow>=2.15.1",
     "tensorflow-io-gcs-filesystem==0.31.0 ; sys_platform == 'win32'",
     "tqdm>=4.60",
 ]
